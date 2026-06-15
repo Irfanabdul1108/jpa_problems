@@ -22,6 +22,9 @@
       <class>com.example.Courses</class>
       <class>com.example.OfflineCourse</class>
       <class>com.example.OnlineCourse</class>
+      <class>com.example.Order</class>
+      <class>com.example.OrdProduct</class>
+      <class>com.example.OrderProduct</class>
         <properties>
 
             <property
